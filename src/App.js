@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Welcome to react-docker
+              Hey, Welcome to my application
         </p>
       </header>
     </div>
